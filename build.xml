@@ -1,0 +1,10 @@
+<!--
+  - The distribution of this project is a shared library that needs to
+  - be copied to TOMCAT_HOME/shared/lib.
+  -
+  - $Id: build.xml,v 1.7 2013/09/01 12:13:17 jglorioso Exp $
+-->
+<project name="zitego.markup" default="compile" basedir=".">
+ <import file="nbproject/build-impl.xml"/>
+
+</project>
